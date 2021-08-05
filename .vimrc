@@ -11,6 +11,7 @@ nnoremap y "*y
 vnoremap y "*y
 noremap p "*p
 noremap dd "*dd
+noremap d "*d
 
 " syntaxhighlighting 
 syntax on 
