@@ -10,6 +10,7 @@ noremap j e
 nnoremap y "*y
 vnoremap y "*y
 noremap p "*p
+noremap dd "*dd
 
 " syntaxhighlighting 
 syntax on 
