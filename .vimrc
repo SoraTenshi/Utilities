@@ -7,7 +7,7 @@ noremap k n
 noremap j e
 
 " yank and paste to actual clipboard
-set clipboard=unname
+set clipboard=unnamed
 
 " syntaxhighlighting 
 syntax on 
