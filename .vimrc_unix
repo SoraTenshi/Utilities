@@ -7,11 +7,7 @@ noremap k n
 noremap j e
 
 " yank and paste to actual clipboard
-nnoremap y "+y
-vnoremap y "+y
-noremap p "+p
-noremap dd "+dd
-noremap d "+d
+set clipboard=unnamedplus
 
 " syntaxhighlighting 
 syntax on 
